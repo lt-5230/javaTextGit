@@ -3,7 +3,7 @@ package com.offcn.config;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
-
+//######################################################################################
 /**
  * @author lt
  * @create 2019-08-05 10:09
